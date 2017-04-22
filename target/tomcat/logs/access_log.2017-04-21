@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:43:43 -0600] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:43:43 -0600] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:43:48 -0600] "GET / HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:43:52 -0600] "GET / HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:43:52 -0600] "GET / HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:44:02 -0600] "GET /MovieRatingsApp HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:44:21 -0600] "GET /MovieRatingsApp HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:44:23 -0600] "GET / HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:44:24 -0600] "GET /MovieRatingApp HTTP/1.1" 302 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2017:17:44:25 -0600] "GET /MovieRatingApp/ HTTP/1.1" 200 52 http-bio-8080-exec-8 1086
+127.0.0.1 - - [21/Apr/2017:18:18:04 -0600] "POST /hessian/CollectibleReceiverWS?take&RID-hkup3n8t HTTP/1.1" 404 - http-bio-8080-exec-2 0
+127.0.0.1 - - [21/Apr/2017:18:38:04 -0600] "POST /hessian/CollectibleReceiverWS?take&RID-hl170j1d HTTP/1.1" 404 - http-bio-8080-exec-5 0
+127.0.0.1 - - [21/Apr/2017:19:18:12 -0600] "POST /hessian/CollectibleReceiverWS?take&RID-hkl2fvvy HTTP/1.1" 404 - http-bio-8080-exec-6 0
+127.0.0.1 - - [21/Apr/2017:19:38:12 -0600] "POST /hessian/CollectibleReceiverWS?take&RID-hkqsph2o HTTP/1.1" 404 - http-bio-8080-exec-1 0
+127.0.0.1 - - [21/Apr/2017:19:58:12 -0600] "POST /hessian/CollectibleReceiverWS?take&RID-hkndmhof HTTP/1.1" 404 - http-bio-8080-exec-8 0
+127.0.0.1 - - [21/Apr/2017:20:29:05 -0600] "POST /hessian/CollectibleReceiverWS?take&RID-hkukp3sw HTTP/1.1" 404 - http-bio-8080-exec-4 0
+127.0.0.1 - - [21/Apr/2017:21:53:44 -0600] "POST /hessian/CollectibleReceiverWS?take&RID-hkr61kvn HTTP/1.1" 404 - http-bio-8080-exec-7 0
